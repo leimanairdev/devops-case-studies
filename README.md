@@ -1,10 +1,3 @@
-# DevOps Case Studies
-
-A portfolio-ready collection of DevOps case studies demonstrating:
-- Infrastructure as Code (Terraform)
-- CI/CD automation (GitHub Actions)
-- Incident response and observability practices
-
 ## Projects
 
 ### AWS Network Baseline (Terraform)
